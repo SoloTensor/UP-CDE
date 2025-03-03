@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "name": "Up-CDE",
+  "version": "1.0",
+  "description": "Upwork Client Details Extracotr",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "https://www.upwork.com/jobs/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.upwork.com/jobs/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/icon16.png",
+      "32": "/images/icon16.png",
+      "48": "/images/icon16.png",
+      "128": "/images/icon16.png"
+    }
+  },
+  "icons": {
+    "16": "/images/icon16.png",
+    "32": "/images/icon16.png",
+    "48": "/images/icon16.png",
+    "128": "/images/icon16.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  }
+}
