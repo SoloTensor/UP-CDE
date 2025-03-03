@@ -1,53 +1,45 @@
-# License for UP-CDE
+License for UP-CDE
+Copyright (c) 2025 SoloTensor
 
-**Copyright (c) 2025 SoloTensor**
+    License Grant
+    Permission is granted to download and use this software ONLY from the official GitHub repository:
+    https://github.com/SoloTensor/UP-CDE.
+    Redistribution, modification, sublicensing, or any creation of derivative works is strictly prohibited without explicit written permission from the author.
 
-## 1. License Grant
-Permission is granted to download and use this software **only from** the official GitHub repository: https://github.com/SoloTensor/UP-CDE.
+    Restrictions
+    You are strictly prohibited from:
+    • Redistributing, copying, or modifying the software in any form.
+    • Hosting or sharing this software outside of the official GitHub repository.
+    • Using the software for any unlawful, unauthorized, or unethical purposes.
+    • Bypassing, altering, or tampering with any security features, authentication mechanisms, or restrictions implemented within the extension.
+    • Using the extension in violation of Upwork’s Terms of Service, Pakistani laws, or any applicable international regulations.
 
-Redistribution, modification, sublicensing, or any creation of derivative works is strictly prohibited without explicit written permission from the author.
+Note: This license does not enforce technical measures; it is a legal restriction governing your use and distribution rights.
 
-## 2. Restrictions
-You are strictly prohibited from:
-- Redistributing, copying, or modifying the software in any form.
-- Hosting or sharing this software outside of the official GitHub repository.
-- Using the software for any unlawful, unauthorized, or unethical purposes.
-- Bypassing, altering, or tampering with any security features, authentication mechanisms, or restrictions implemented within the extension.
-- Using the extension in violation of Upwork’s Terms of Service, Pakistani laws, or any applicable international regulations.
+    Upwork-Specific Disclaimer
+    This extension is NOT affiliated with, endorsed by, or approved by Upwork Inc. in any way.
+    • You acknowledge that Upwork's Terms of Service (TOS) apply when accessing its platform, and your use of this extension is solely at your own risk.
+    • The author shall not be held responsible for any actions taken by Upwork, including, but not limited to, account suspensions, bans, legal claims, or data loss arising from the use of this extension.
+    • It is your responsibility to ensure that your use of this extension complies with Upwork’s policies.
 
-*Note: This license does not enforce technical measures; it is a legal restriction governing your use and distribution rights.*
+    Pakistan-Specific Legal Compliance
+    By using this extension, you agree to comply with all relevant laws and regulations in Pakistan, including but not limited to:
+    • The Prevention of Electronic Crimes Act (PECA) 2016 – Unauthorized data extraction, scraping, or automated access to third-party services (such as Upwork) may incur legal consequences under PECA.
+    • The Pakistan Penal Code (PPC) – Misuse of this extension for fraudulent, deceptive, or unlawful activities may result in prosecution under Pakistani law.
+    • Intellectual Property Rights and Copyright Laws – Use of this software to infringe upon the intellectual property rights of Upwork or any other entity is strictly prohibited.
+    Failure to comply with these laws may result in civil or criminal liabilities, for which the author will not be held responsible.
 
-## 3. Upwork-Specific Disclaimer
-This extension is **not affiliated with, endorsed by, or approved by Upwork Inc.** in any way.
+    No Warranty & Limitation of Liability
+    THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES, INCLUDING but not limited to:
+    • Account suspensions, restrictions, or terminations imposed by Upwork.
+    • Loss of job opportunities, clients, or income due to the use of this software.
+    • Technical issues, data loss, or security risks arising from the use of this software.
+    • Any legal actions taken against users in Pakistan or internationally due to violations of applicable laws.
 
-- You acknowledge that Upwork's Terms of Service (TOS) apply when accessing its platform, and your use of this extension is solely at your own risk.
-- The author shall not be held responsible for any actions taken by Upwork, including, but not limited to, account suspensions, bans, legal claims, or data loss arising from the use of this extension.
-- It is your responsibility to ensure that your use of this extension complies with Upwork’s policies.
+    Jurisdiction & Dispute Resolution
+    This license shall be governed by and interpreted in accordance with the laws of Pakistan. Any disputes arising from the use of this extension shall be resolved through arbitration in Pakistan, as provided by the Arbitration Act 1940. By using this extension, you agree to submit to the exclusive jurisdiction of the courts in Pakistan for any disputes not resolved through arbitration.
 
-## 4. Pakistan-Specific Legal Compliance
-By using this extension, you agree to comply with all relevant laws and regulations in Pakistan, including but not limited to:
+    Termination & Compliance
+    The author reserves the right to revoke usage permissions at any time. Violations of these terms may result in termination of your right to use the software and may subject you to legal action.
 
-- **The Prevention of Electronic Crimes Act (PECA) 2016**: Unauthorized data extraction, scraping, or automated access to third-party services (such as Upwork) may incur legal consequences under PECA.
-- **The Pakistan Penal Code (PPC)**: Misuse of this extension for fraudulent, deceptive, or unlawful activities may result in prosecution under Pakistani law.
-- **Intellectual Property Rights and Copyright Laws**: Use of this software to infringe upon the intellectual property rights of Upwork or any other entity is strictly prohibited.
-
-Failure to comply with these laws may result in civil or criminal liabilities, for which the author will not be held responsible.
-
-## 5. No Warranty & Limitation of Liability
-THIS SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES, INCLUDING but not limited to:
-- Account suspensions, restrictions, or terminations imposed by Upwork.
-- Loss of job opportunities, clients, or income due to the use of this software.
-- Technical issues, data loss, or security risks arising from the use of this software.
-- Any legal actions taken against users in Pakistan or internationally due to violations of applicable laws.
-
-## 6. Jurisdiction & Dispute Resolution
-- This license shall be governed by and interpreted in accordance with the laws of Pakistan.
-- Any disputes arising from the use of this extension shall be resolved through arbitration in Pakistan, as provided by the Arbitration Act 1940.
-- By using this extension, you agree to submit to the exclusive jurisdiction of the courts in Pakistan for any disputes not resolved through arbitration.
-
-## 7. Termination & Compliance
-The author reserves the right to revoke usage permissions at any time. Violations of these terms may result in termination of your right to use the software and may subject you to legal action.
-
----
-
-**By downloading or using this extension, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in this license.**
+By downloading or using this extension, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in this license.
