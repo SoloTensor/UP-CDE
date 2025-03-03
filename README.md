@@ -1,2 +1,3 @@
 # UP-CDE
-Upwork Clisnt Data Extraction - Chrome Extension
+Upwork Client Data Extraction - Chrome Extension
+
